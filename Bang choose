@@ -193,9 +193,9 @@ layout.Parent = scrollingFrame
 -- Buttons Data
 local buttons = {
     {name = "Bang V2", r6 = "https://raw.githubusercontent.com/push551/Bangr6/refs/heads/main/Bangr6", r15 = "https://raw.githubusercontent.com/push551/Bangr15/refs/heads/main/Bangr15"},
-    {name = "Get Banged", r6 = "https://raw.githubusercontent.com/push551/Bangr6./refs/heads/main/Bangr6", r15 = "https://raw.githubusercontent.com/push551/Bangr15./refs/heads/main/Bangr15"},
-    {name = "Suck", r6 = "https://raw.githubusercontent.com/push551/Bangr6.../refs/heads/main/Bangr6", r15 = "https://raw.githubusercontent.com/push551/Bangr15.../refs/heads/main/Bangr15"},
-    {name = "Get Suc", r6 = "https://raw.githubusercontent.com/push551/Bangr6...../refs/heads/main/Bangr6", r15 = "https://raw.githubusercontent.com/push551/Bangr15...../refs/heads/main/Bangr15"},
+    {name = "Get Banged", r6 = "https://raw.githubusercontent.com/push551/Bangr6./refs/heads/main/Bangr6.", r15 = "https://raw.githubusercontent.com/push551/Bangr15./refs/heads/main/Bangr15."},
+    {name = "Suck", r6 = "https://raw.githubusercontent.com/push551/Bangr6.../refs/heads/main/Bangr6", r15... = "https://raw.githubusercontent.com/push551/Bangr15.../refs/heads/main/Bangr15..."},
+    {name = "Get Suc", r6 = "https://raw.githubusercontent.com/push551/Bangr6...../refs/heads/main/Bangr6.....", r15 = "https://raw.githubusercontent.com/push551/Bangr15...../refs/heads/main/Bangr15....."},
     {name = "Jerk", r6 = "https://pastefy.app/wa3v2Vgm/raw", r15 = "https://pastefy.app/YZoglOyJ/raw"}
 }
 
